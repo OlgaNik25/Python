@@ -1,15 +1,15 @@
-def num(n):
-    print(n, end="")
+def num_tel(num):
+    print(num, end="")
 
 
-num(8)
-num(8)
-num(0)
-num(0)
-num(5)
-num(5)
-num(5)
-num(3)
-num(5)
-num(3)
-num(5)
+num_tel(8)
+num_tel(8)
+num_tel(0)
+num_tel(0)
+num_tel(5)
+num_tel(5)
+num_tel(5)
+num_tel(3)
+num_tel(5)
+num_tel(3)
+num_tel(5)
